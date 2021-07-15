@@ -1,0 +1,31 @@
+@media only screen and (min-width: 992px) {
+    body {
+        overflow: hidden;
+    }
+}
+
+@media only screen and (width: 991px) {
+    body {
+        overflow: hidden;
+    }
+}
+
+.fluid-container {
+    overflow: hidden;
+}
+
+.column1 {
+    height: 10vh;
+}
+
+.column2 {
+    height: 10vh;
+}
+
+.column3 {
+    height: 90vh;
+}
+
+.column4 {
+    height: 90vh;
+}
